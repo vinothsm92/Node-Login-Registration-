@@ -23,4 +23,4 @@ $ npm run dev
 I have connected my localdb
 in app.js file
 
-```shmongoose.connect('mongodb://localhost/ManualAuth');```
+```mongoose.connect('mongodb://localhost/ManualAuth');```
