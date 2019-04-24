@@ -20,4 +20,7 @@ $ npm run dev
 
 ### MongoDB
 
-Open "config/keys.js" and add your MongoDB URI, local or Atlas
+I have connected my localdb
+in app.js file
+
+```shmongoose.connect('mongodb://localhost/ManualAuth');```
